@@ -1,11 +1,24 @@
 # Scam blocklist Germany
 
-This list sourced from the csv file provided here
+This list is sourced from the csv file provided here
 
 ```
 https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 ```
 
-maintained by the Austrian Institute for Applied Telecommunications.
+by the Austrian Institute for Applied Telecommunications.
+For additional info visit `https://www.watchlist-internet.at/`.
 
-To use this with your adblocker, add the following URL:
+To use this list with your adblocker, add the following URL:
+
+```
+https://raw.githubusercontent.com/tugit/scam-blocklist/main/scam-domains-light.txt
+```
+
+
+## TODO:
+
+There are other sources as well we could try to integrate:
+
+- https://anfras.com/fakeshops/
+- https://seitcheck.de/
