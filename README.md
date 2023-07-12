@@ -9,6 +9,13 @@ https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 by the Austrian Institute for Applied Telecommunications.
 For additional info visit `https://www.watchlist-internet.at/`.
 
+Additionally domains from
+
+```
+https://anfras.org/fakeshops
+```
+are added to the list.
+
 To use this list with your adblocker, add the following URL:
 
 ```
