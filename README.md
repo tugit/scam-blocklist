@@ -20,5 +20,4 @@ https://raw.githubusercontent.com/tugit/scam-blocklist/main/scam-domains-light.t
 
 There are other sources as well we could try to integrate:
 
-- https://anfras.com/fakeshops/
 - https://seitcheck.de/
